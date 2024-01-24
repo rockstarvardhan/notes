@@ -1,0 +1,15 @@
+Solidprinciples:The SOLID principles are a set of five design principles that are intended to guide software development and help create more maintainable and scalable software systems.
+1.Single Responsibility Principle (SRP):The single responsibility principle states that every Java class must perform a single functionality. Implementation of multiple functionalities in a single class mashup the code and if any modification is required may affect the whole class
+2.Open/Closed Principle (OCP):The application or module entities the methods, functions, variables, etc. The open-closed principle states that according to new requirements the module should be open for extension but closed for modification.
+3.Liskov Substitution Principle (LSP):he Liskov Substitution Principle (LSP) was introduced by Barbara Liskov. It applies to inheritance in such a way that the derived classes must be completely substitutable for their base classes. In other words, if class A is a subtype of class B, then we should be able to replace B with A without interrupting the behavior of the program.
+4.Interface Segregation Principle (ISP):The principle states that the larger interfaces split into smaller ones. Because the implementation classes use only the methods that are required. We should not force the client to use the methods that they do not want to use.
+5.Dependency Inversion Principle (DIP):The Dependency Inversion Principle (DIP) states that high-level modules should not depend upon low-level modules; they should depend on abstractions.
+his helps keep coupling low and makes our design easier to change. DIP also allows us to test things in isolation.
+OOPSconcepts:The programming paradigm where everything is represented as an object is known as a truly object-oriented programming language.
+1.Class and Object:Class: A class is a blueprint or a template for creating objects. It defines the attributes (fields) and behaviors (methods) that the objects will have.
+fundamental concept in object-oriented programming (OOP) that refers to the bundling of data and methods that operate on that data within a single unit, which is called a class in Java.Object: An object is an instance of a class. It represents a real-world entity and encapsulates data and behavior.
+2.abstraction:the process in which we only show essential details/functionality to the user. The non-essential implementation details are not displayed to the user
+3.encapsulation:the fundamental concept in object-oriented programming (OOP) that refers to the bundling of data and methods that operate on that data within a single unit, which is called a class in Java.
+4,inheritance:it is the mechanism in Java by which one class is allowed to inherit the features(fields and methods) of another class. In Java, Inheritance means creating new classes based on existing ones.
+5.polymorphism:it considered one of the important features of Object-Oriented Programming. Polymorphism allows us to perform a single action in different ways. In other words, polymorphism allows you to define one interface and have multiple implementations
+
