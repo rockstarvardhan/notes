@@ -1,0 +1,49 @@
+Recovery time objective:the overall length of time an information systems components can be in the recovery phase before negatively impacting the organzations misson.
+it is the maximum acceptable amount of data after an unplanned data-loss accident expressed as an amount of time
+in the simple terms it is the time to take a recover is the amount of data it is acceptable and should be carefully considered and set data based on the specific needs an requirements of bussiness.
+in cloud of a data protection refers to the time it takes to recover could systems and services and normal operations after a disaster it is one of the target window for restoring systems and services.
+it is the significant of implications for enssuring the contunity of business operations of factoring the values of applications directly affects of backups and recovery.
+It is often determined through a risk assessment and impact analysis, taking into account factors such as the potential financial loss, operational impact, and regulatory compliance.
+It's important to note that RTO is not just about technical recovery; it encompasses the entire process of restoring operations, including communication, coordination, and testing. Organizations should regularly review and update their business continuity plans to ensure that RTOs align with current business needs and technology capabilities.
+In simpler terms, RTO represents the time it takes to get a system or process back up and running after a disruption.
+Recovery point objective:it is defined as the maximum amount of data it is measured by time it can be losr for after a recovery from a disaster event before data loss will be exceed it is acceptable an organazation.
+it is time based measurement of the maximum amount of data loss that is a tolerable of the data to an organzation .it is one of the backup schedule it is to be sufficent to be a recover a data to be a disaster.
+it is one of the higher priority applications which will be require more of the frequent of the backups in some of the situations the ITdepartment will be helpful us it may take a schedule continuos data protection of recovery easily.
+ Return of investment;a cost of monetary value of an investment is know an ROI.
+ it is a popular of profitability metric is used to evaluate how it will an investment has been performed.
+ it is a popular of metric because of its versatility and the simplicity it can be used as rudimentary gauge of an investments profitability.
+ it is generally defined as the net profit ratio over the total investment cost.
+ it is refers to the return of the cost made of an investment it is the ratio of the termed as a profit compatre to the each price of an investment was the made.
+ it is used to be evaluate when whether the assets made up of a given to a profits or losses. sometimes it was the develpoment for the bussiness.
+ The most popular is whether investing capital or implementing a market strategy such as  is the return on investment. ROI also helps you to decide which business schools will be beneficial to attend, as it refers to something that can identify financial return and investment profit.
+
+ Verticalscaling;the process of increasing o power of an existing system it as the cpu to meet the rising demands.
+ it is the process of increasing capacity of a power of an a single server resource with an machine.it is one of the typically acheived to adding more no of resources to be a an existing of the infrastructre.
+ when it was approaches of the server of the architure in the vertical scaling it wiil contracts of one of the horizontal scaling.
+ Advantages:1.it will be easily implement to the requires of existing system.
+                    2.some of the applications will be on the database it will be
+                       making on more feasible option.
+ Autoscaling;it provide the users with an automated will be approach to the increase or decrease the compute of memory or networking resorces as been allocated.
+ it is critical aspen of cloud computing of the deployments of the behind computing is to be the enable of the users which is the applications and infrastructre it can be called as meet demand.
+ Highavailability:it is the an it system of component of an application of it can be operate of at a high level of continously without the intervention for a given timeperiod.
+ it is a property of network of resilence to be the abllity to be the provide of maintain to be an acceptable level of service in the face of faults and changes to be an normal operation.
+ Monitoring:it include the important data to that reveals of an information of the crucial aspect various fileds and contexts.
+ There are several tools and techniques available for monitoring Java applications
+ 1.Logging:java.util.logging: Java provides a built-in logging framework through the java.util.logging package. Developers can use this to log messages at different levels (info, warning, error) to track the execution flow and identify issues.
+ LogLog4j back: These are popular third-party logging frameworks that offer more features and flexibility than the built-in logging. They allow you to configure log levels, log to different outputs, and manage log files
+ 2.Monitoring Tools:JConsole is a Java Monitoring and Management Console that comes with the JDK. It provides real-time monitoring of Java Virtual Machine (JVM) and allows you to analyze memory usage, thread activity, and perform basic profiling.
+ Java Mission Control (JMC): JMC is a more advanced monitoring and diagnostics tool for Java applications. It offers features like flight recorder and event recording for in-depth analysis.
+ Logs:it requires in java using one or more using logging frame works.the frameworks will be provide of the obbjects,methiods and configuration of the necessary to be create and to be send of log messages it will be provide a built in framework in the java.
+ Resilience:it is an software development refers to a system's ability to recover gracefully from failures and continue functioning in a reliable manner. In Java, building resilient applications involves adopting practices, patterns, and libraries that enhance the system's robustness and fault tolerance. Here are some key aspects of building resilience in Java applications:
+ 1.Circuit Breaker Pattern;Implementing a circuit breaker helps prevent a faulty service or component from repeatedly causing failures. Libraries like Netflix Hystrix provide a Java implementation of the circuit breaker pattern.
+ 2.Timeouts:Set appropriate timeouts for operations to prevent them from hanging indefinitely. This ensures that the system doesn't get stuck waiting for a potentially unresponsive component.
+ Alerting:In Java, alerting typically refers to displaying messages or notifications to users. There are different ways to achieve this, depending on the type of application you are developing. Here are a few common ways to implement alerting in Java:
+ OSI layers:it is an conceputal of model created by the international organization for standardzation it will be enables to be diverse communication systems
+ 1.Physical Layer:The physical layer deals with the physical connection between devices. In Java, this layer is abstracted away as networking is typically handled at a higher level.
+ 2.Data Link Layer:The data link layer is responsible for node-to-node communication, including error detection and correction. In Java, low-level networking libraries like java.net handle some aspects of this layer.
+ 3.Network Layer:The network layer is responsible for routing and forwarding of data. In Java, you can work with IP addresses and routing through the java.net package
+ 4.Transport Layer:The transport layer ensures end-to-end communication, providing reliable and transparent data transfer. In Java, the java.net package includes classes like Socket and ServerSocket that operate at this layer.
+ 5.Session Layer:The session layer manages sessions or connections between applications. In Java, the session layer functionality is often implemented by the application itself using higher-level protocols.
+ 6.Presentation Layer:The presentation layer deals with data translation and encryption. In Java, this layer is typically managed by the application, and Java provides libraries for encoding/decoding data, such as java.nio.charset for character sets.
+ 7.Application Layer:The application layer is where actual applications and network services reside. In Java, your application code is implemented at this layer, utilizing higher-level libraries and frameworks.
+ OSI layers:
